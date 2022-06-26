@@ -184,6 +184,7 @@ h2 {
 .email img {
   margin-right: 2rem;
   margin-bottom: 2rem;
+  color: #fff !important;
 }
 .footer-menu {
   display: flex;
@@ -191,8 +192,7 @@ h2 {
 }
 .footer-logo {
   margin-bottom: 2rem;
-  color: #fff !important;
-}
+
 .list-item {
   margin-bottom: 0.5rem;
 }
