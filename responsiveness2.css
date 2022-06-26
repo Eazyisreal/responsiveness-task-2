@@ -86,10 +86,10 @@ h2 {
   transform: translateX(0);
   animation: slideintext 0.5s ease-in;
 }
-/*@keyframes slideintext {
+@keyframes slideintext {
     0%{transform: translateX(-1000px);}
     100%{transform: translateX(0);}
-}*/
+}
 .hero-text h1 {
   font-size: 3rem;
   padding-bottom: 1.5rem;
@@ -191,6 +191,7 @@ h2 {
 }
 .footer-logo {
   margin-bottom: 2rem;
+  color: #fff !important;
 }
 .list-item {
   margin-bottom: 0.5rem;
